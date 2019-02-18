@@ -28,27 +28,27 @@ td {
 }
 
 .round2 {
-    margin-top: -35px;
-    margin-left: -65px;
-    padding: 35px 35px 35px 35px;
+    margin-top: -55px;
+    margin-left: 650px;
+    padding: 45px 45px 45px 45px;
     border-radius: 100px;
     position: absolute;
     background-color: #FF9800;
 }
 
 .round3 {
-    margin-top: -35px;
-    margin-left: -65px;
-    padding: 35px 35px 35px 35px;
+    margin-top: -75px;
+    margin-left: 800px;
+    padding: 65px 65px 65px 65px;
     border-radius: 100px;
     position: absolute;
     background-color: #FF9800;
 }
 
 .round4 {
-    margin-top: -35px;
-    margin-left: -65px;
-    padding: 35px 35px 35px 35px;
+    margin-top: -95px;
+    margin-left: 1000px;
+    padding: 85px 85px 85px 85px;
     border-radius: 100px;
     position: absolute;
     background-color: #FF9800;
