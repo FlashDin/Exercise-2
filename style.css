@@ -1,6 +1,7 @@
 body {
     margin: 25px 25px 10px 25px;
     background-color: #3F51B5;
+    text-align: center;
 }
 
 .content {
@@ -8,6 +9,34 @@ body {
     background-color: #ffffff;
     border-radius: 15px;
     min-height: 450px;
+}
+
+.calc-body {
+    padding: 50px 50px 50px 50px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    height: 450px;
+    width: 350px;
+}
+
+.table-center {
+    text-align: center;
+}
+
+.input-calc {
+    font-weight: bold;
+    font-size: 16px;
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.input-calc-tmp {
+    text-align: right;
+    font-weight: bold;
+    font-size: 16px;
+    width: 100%;
+    border-radius: 10px;
 }
 
 tr {
